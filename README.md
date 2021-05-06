@@ -1,2 +1,2 @@
-# lasalle.cscw.2021.1.grupo01
-AV1 CSCW
+# La Salle CSCW AV1 2021.1 Grupo 01
+
