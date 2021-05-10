@@ -1,5 +1,16 @@
 @import url("https://fonts.googleapis.com/css2?family=Baloo+Paaji+2:wght@400;500&display=swap");
 
+.divheader{
+	text-align:center;
+	background-color: #3082e2;
+	padding-top: 1px;
+	padding-bottom: 1px;
+}
+
+h1{
+	color:#e6ea1d;
+}
+
 .container {
   display: grid;
   grid-template-columns: 300px 300px 300px;
@@ -7,7 +18,7 @@
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-color: #f5f5f5;
+  background-color: #3082e2;
   font-family: 'Baloo Paaji 2', cursive;
 }
 
