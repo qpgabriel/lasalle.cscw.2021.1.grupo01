@@ -17,14 +17,14 @@ h1{
   grid-gap: 50px;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  height: 200vh;
   background-color: #3082e2;
   font-family: 'Baloo Paaji 2', cursive;
 }
 
 .card {
   background-color: #222831;
-  height: 37rem;
+  height: 39rem;
   border-radius: 5px;
   display: flex;
   flex-direction: column;
